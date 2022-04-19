@@ -1,0 +1,452 @@
+<aiml version="1.0.1" encoding="URF-8">
+
+    <category>
+        <pattern>Que es el covid</pattern>
+        <template>Los coronavirus son una familia de virus que causan enfermedades 
+        (desde el resfriado común hasta enfermedades respiratorias más graves) y 
+        circulan entre humanos y animales.</template>
+    </category>
+
+    <category>
+        <pattern>Cuales son los sintomas</pattern>
+        <template>Una persona debe sospechar de COVID-19 si presenta al menos dos de los siguientes sintomas
+        Tos/Estornudos
+        Fiebre
+        Dolor de cabeza
+        y estos pueden estar acompañados de los siguientes
+        Dificultad para respirar(casos graves)
+        Dolor de garganta
+        Escurrimiento nasal
+        Ojos rojos
+        Dolores en musculos o articulaciones</template>
+    </category>
+
+    <category>
+        <pattern>Como se transmite el COVID</pattern>
+        <template>Los coronavirus humanos se transmiten de una persona infectada a otras:
+        - a través de las gotículas que expulsa un enfermo al toser y estornudar
+        - al tocar o estrechar la mano de una persona enferma,
+        - un objeto o superficie contaminada con el virus y luego llevarse las manos sucias a boca, nariz u ojos.
+        </template>
+    </category>
+
+    <category>
+        <pattern>Como evitar el COVID</pattern>
+        <template>Evita saludarde mano, beso o abrazo
+        Evita automedicarte
+        Evita escupir
+        Evita tocarte la cara con las manos sucias
+        Usa un cubreboca
+        LAvado de manos constante
+        Sana distancia 1.5m
+        Esornudo de etiqueta
+        Espacios veintilados
+        Vacunate</template>
+    </category>
+
+    <category>
+        <pattern>Tratamiento COVID</pattern>
+        <template>Actualmente no existe un tratamiento que cure por si mismo la enfermedad por COVID-19
+        pero ya se estan implementando las vacunas que son una medida de segurida y ayudan a disminuir los
+        contagios</template>
+    </category>
+
+    <category>
+        <pattern>Cuidados para una persona con COVID</pattern>
+        <template>No te automediques
+        No saludes de mano, beso o abrazo y manten tu sana distancia respecto a quienes conviven contigo
+        Lavate las manos frecuentemente con agua y jabon, al menos 20 segundos, o desinfectalas con gel
+        Alimentate sanamente, con frutas y verduras y toma al menos ocho vasos de agua simple</template>
+    </category>
+
+    <category>
+        <pattern>Variantes de COVID</pattern>
+        <template>Se dividen en tres categorias 
+        Variantes de preocupación
+        Variantes de interes
+        Variantes bajo monitoreo
+        Las principales son:
+        Omicron
+        Delta
+        B.1.640
+        B.1.1.519</template>
+    </category>
+
+    <category>
+        <pattern>A que personas afecta mas</pattern>
+        <template>Las personas mayores
+        Las personas embarazadas
+        Las personas con alguna enfermedad previa como cancer, diabetes o hipertencion</template>
+    </category>
+
+    <category>
+        <pattern>Que hago si tengo sintomas</pattern>
+        <template>Si presentas estos síntomas, puedes llamar a los siguientes teléfonos: 800 0044 800 o al 55 56 58 11 11.
+Por favor, considera que, si tienes esos síntomas, no necesariamente tienes COVID-19, podría ser sólo gripa.
+La mayoría de las personas que se contagien no desarrollarán la enfermedad y mejorarán por sí mismas. Pero aún así pueden transmitir el virus a las demás.
+Cuidarnos es también cuidar a las demás personas.
+Por eso debes llamar a los teléfonos anteriores, para que te puedan brindar más información sobre qué puedes hacer.</template>
+    </category>
+
+    <category>
+        <pattern>Donde puedo ver documentos de consulta</pattern>
+        <template>Pedes ingresar a la pagina https://coronavirus.gob.mx/documentos-de-consulta/</template>
+    </category>
+
+    <category>
+        <pattern>Como es el lavado de manos</pattern>
+        <template>1 Moja tus manos 
+        2. Aplica suficiente jabos
+        3. Frota las palmas
+        4. Luego los dorsos
+        5. Ahora talla los dedos entrelazados
+        6. Talla los pulgares
+        7. luego los nudillos
+        8. Enjuaga bien con agua
+        9. Secate muy bien con una toalla</template>
+    </category>
+
+    <category>
+        <pattern>Cuando debo lavarme las manos</pattern>
+        <template>1. Despues de regresar, si sales a la calle
+        2. Antes, durante y despues de preparar alimentos
+        3. Antes de coner
+        4. Despues de ir al baño o de ayudar a que alguien más lo haga
+        5. Antes y despues de atender a un enfermo
+        6. Despues de sonarse la nariz, toser o estornudar
+        7. Despues de tocar a un animal
+        8. Despues de tocar la basura </template>
+    </category>
+
+    <category>
+        <pattern>Cual es el uso correcto del cubreboca</pattern>
+        <template>Desechable (Triple capa): Personas con sintomas o cuidador de personas con sintomas respiratorios
+        Tela (Triple capa): Comunitario en personas asintomaticas cuando NO es posible garantizar una sana distancia</template>
+    </category>
+
+    <category>
+        <pattern>Las mujeres embarazadas son mas propensas a infectarse</pattern>
+        <template>Aún no hay estudios cientificos publicados con información sobre la suseptibilidad 
+        de las embarazadas a infectarce</template>
+    </category>
+
+    <category>
+        <pattern>Puede alguien que ha estado en cuarentena propagar la enfermedad</pattern>
+        <template>En el caso del COVID-19, el periodo de cuarentena es de 14 días desde la última fecha 
+        de exposición, ya que 14 días es el periodo más largo de incubación que se ha observado en coronavirus 
+        similares. Se considera que la persona a quien se permitió salir de la cuarentena por el COVID-19 no 
+        representa un riesgo de propagación del virus a los demás porque durante dicho periodo no presentó la 
+        enfermedad, o que ya pasaron los 14 días después del inicio de síntomas (casos leves) y después de 
+        terminar sus síntomas (casos graves).</template>
+    </category>
+
+    <category>
+        <pattern>Los fumadores tienen mayor riesgo de contraer la enfermedad</pattern>
+        <template>Los fumadores son más vulnerables a COVID-19, ya que el acto de fumar supone acercar los 
+        dedos (y los cigarrillos, que pueden estar contaminados) a los labios, lo que aumenta la posibilidad 
+        de transmisión del virus de la mano a la boca. Los fumadores también pueden padecer una enfermedad 
+        pulmonar crónica o tener una capacidad pulmonar disminuida, lo que potencia enormemente el riesgo de 
+        enfermedad grave</template>
+    </category>
+
+    <category>
+        <pattern>Es posible contagiarce de una persona que no preceta sintomas</pattern>
+        <template>La principal forma de propagación de la enfermedad es a través de las gotas respiratorias 
+        expelidas por alguien al toser. El riesgo de contraer la COVID-19 de alguien que no presente ningún 
+        síntoma es muy bajo. Sin embargo, muchas personas que lo contraen solo presentan síntomas leves. 
+        Esto es particularmente cierto en las primeras etapas de la enfermedad. Por lo tanto, es posible 
+        contagiarse de alguien que, por ejemplo, solamente tenga una tos leve y no se sienta enferma, por lo 
+        tanto lo más importante es seguir las medidas básicas de prevención.</template>
+    </category>
+
+    <category>
+        <pattern>Que debo hacer si un miembro de mi familia contrae COVID</pattern>
+        <template>Los síntomas de COVID-19 (al menos dos de los siguientes: tos, dolor de de cabeza y fiebre, 
+        y acompañado de al menos uno de los que siguen: dolor o ardor de garganta, dolores musculares o de las 
+        articulaciones, ojos rojos y para los casos graves dificultad para respirar o dolor en el pecho) se 
+        parecen mucho a los de otras enfermedades causadas por otros virus. Si un miembro de su familia tiene 
+        dificultades para respirar, diríjanse a un servicio de urgencias médicas o llamen al 911 de inmediato.</template>
+    </category>
+
+    <category>
+        <pattern>Que debo hacer si se produce un brote en mi comunidad</pattern>
+        <template>Mantén la calma y quédate en casa. Conserva la sana distancia y limita el contacto cercano 
+        con otras personas tanto como sea posible, aproximadamente 2 metros.</template>
+    </category>
+
+    <category>
+        <pattern>Que es la transmicion comunitaria</pattern>
+        <template>Esta etapa se da cuando se detectan contagios del virus entre personas dentro del país y que 
+        no hayan tenido necesariamente contacto con pacientes expuestos fuera de México. En este periodo de 
+        contagio local suele aumentar rápidamente el número de casos registrados y se toman medidas como suspensión 
+        de clases, implementación del trabajo a distancia o home office y cancelación de eventos masivos.</template>
+    </category>
+
+    <category>
+        <pattern>Debo aislarme si tuve contacto con un caso confirmado</pattern>
+        <template>El aislamiento es una medida voluntaria: a nadie se le puede obligar, ni siquiera a los casos 
+        confirmados. Por fortuna, todos han aceptado la cuarentena para no diseminar la enfermedad.</template>
+    </category>
+
+    <category>
+        <pattern>Mis mascotas pueden contagiarse</pattern>
+        <template>No hay evidencia científica de que el COVID-19 pueda infectar a los animales de compañía, en 
+        especial perros y gatos, y tampoco que puedan contagiar a humanos. Sin embargo, en caso de recuperación 
+        en casa es buena idea aplicar las medidas de sana distancia también con ellos.</template>
+    </category>
+
+    <category>
+        <pattern>Puedo contagiarme de una persina sin sintomas</pattern>
+        <template>El virus se contagia con mayor facilidad cuando una persona infectada presenta síntomas, pero también 
+        es posible contagiar el virus antes de que haya síntomas. Por eso, lo mejor es tener las manos limpias y no tocarse 
+        el rostro.</template>
+    </category>
+
+    <category>
+        <pattern>Debo desinfectar toda micasa, escuela o lugar de trabajo</pattern>
+        <template>Hay que mantener las medidas de higiene, limpiando con agua y con jabón, pero no hay necesidad de 
+        desinfectar los espacios de manera especial.</template>
+    </category>
+
+    <category>
+        <pattern>Debo usar cubrebocas</pattern>
+        <template>El cubreboca es una barrera útil para evitar que se expulsen las gotas de saliva que potencialmente 
+        estén contaminadas. El cubreboca se debe usar correctamente, sobre todo en lugares públicos cerrados en los que 
+        no se pueda mantener la sana distancia. No te olvides de usar el cubreboca junto con las medidas básicas de prevención 
+        como son la sana distancia (dos metros), lavado frecuente de manos y estornudo de etiqueta.</template>
+    </category>
+
+    <category>
+        <pattern>Se contagia por el sudor</pattern>
+        <template>El coronavirus no se transmite por el sudor ni por la sangre. Se propaga mediante gotículas procedentes 
+        de la nariz o la boca que salen despedidas cuando una persona infectada tose o exhala.</template>
+    </category>
+
+    <category>
+        <pattern>Donde puedo conseguir apoyo</pattern>
+        <template>Llama a la línea de la vida 800 911 2000</template>
+    </category>
+
+    <category>
+        <pattern>Personal de salud</pattern>
+        <template>Toda lainformación referente al personal de salud la puedes encontrar en 
+        https://coronavirus.gob.mx/personal-de-salud/</template>
+    </category>
+
+    <category>
+        <pattern>tipos de vacuna</pattern>
+        <template>Existen diferentes tipos de vacunas, están diseñadas para preparar a nuestro sistema inmunológico 
+        a combatir enfermedades. Se están desarrollando diversos tipos de posibles vacunas contra la COVID-19, entre ellas:
+        Vacunas con virus inactivados o atenuados: utilizan un virus previamente inactivado o atenuado, de modo que no provoca la 
+        enfermedad, pero aún así genera una respuesta inmunitaria.
+        Vacunas basadas en proteínas: utilizan fragmentos inocuos de proteínas o estructuras proteicas que imitan el virus causante 
+        de la COVID-19, con el fin de generar una respuesta inmunitaria.
+        Vacunas con vectores virales: utilizan un virus genéticamente modificado que no puede provocar la enfermedad, pero sí puede 
+        producir proteínas de coronavirus para generar una respuesta inmunitaria segura.
+        Vacunas con ARN y ADN: un enfoque pionero que utiliza ARN o ADN genéticamente modificados para generar una proteína que por 
+        sí sola desencadena una respuesta inmunitaria.</template>
+    </category>
+
+    <category>
+        <pattern>para que se recomienda la vacuna</pattern>
+        <template>La vacunación es una forma sencilla, inocua y eficaz de protegernos contra enfermedades dañinas antes de entrar en 
+        contacto con ellas. Las vacunas activan las defensas naturales del organismo para que aprendan a resistir a infecciones 
+        específicas, y fortalecen el sistema inmunitario.</template>
+    </category>
+
+    <category>
+        <pattern>Vacunas disponibles en México</pattern>
+        <template>México tiene convenios con las farmacéuticas:
+        Pfizer-BioNTech, Cansino, COVAX, AstraZeneca, Sputnik V, Sinovac, Janssen y Moderna.</template>
+    </category>
+
+    <category>
+        <pattern>a partir de cuando esta disponible la vacuna</pattern>
+        <template>El 24 de diciembre inició la primera fase de vacunación en la Ciudad de México, Estado 
+        de México y Querétaro. La primera dosis de la vacuna en México se aplicó a la jefa de Enfermería 
+        en la Unidad de Terapia Intensiva del Hospital «Rubén Leñero» de la Ciudad de México.</template>
+    </category>
+
+    <category>
+        <pattern>donde se aplica la vacuna</pattern>
+        <template>La vacunación se realizará a través de Unidades Móviles, instalaciones vinculadas al 
+        sistema de salud y del bienestar; así como unidades de salud de primer nivel. Lo anterior, 
+        mediante una estrategia interinstitucional donde participaran autoridades federales de la 
+        Secretaría de Salud, Fuerzas Armadas, Secretaría del Bienestar y de la Secretaría de Educación.
+        </template>
+    </category>
+
+    <category>
+        <pattern>quienes recibiran la vacuna</pattern>
+        <template>Se vuelve necesario establecer un proceso escalonado, conforme se tenga el acceso a 
+        las vacunas disponibles mediante una estrategia que identifique a los grupos poblacionales 
+        prioritarios para garantizar el bien común, la distribución justa y equitativa, con base en principios
+        de equidad y valores rectores, como son:
+        Bienestar humano,
+        Respeto por igual,
+        Equidad global,
+        Equidad nacional,
+        Reciprocidad, y
+        Legitimidad</template>
+    </category>
+
+    <category>
+        <pattern>porque deben vacunarse los grupos de riesgo</pattern>
+        <template>En un análisis del beneficio de la vacunación en relación con el riesgo de morir por COVID-19 
+        en México, los resultados preliminares identificaron que el mayor beneficio se obtiene iniciando la 
+        vacunación con:
+        Trabajadores de la salud (Personal médico, enfermería, laboratoristas y en general los que se 
+        encuentren en la primera línea de atención de la enfermedad),
+        Personas de 60 años o más con o sin comorbilidades por década de la vida descendente,
+        Personas de 50 a 59 años con comorbilidades y
+        Posteriormente la población restante.</template>
+    </category>
+
+    <category>
+        <pattern>tramitar certificado de vacunación</pattern>
+        <template>Para tramitarlo puedes hacerlo a través del portal https://cvcovid.salud.gob.mx/ o vía 
+        WhatsApp deL Dr. Armando Vaccuno (56 1713 0557). Es requisito que estés registrado previamente 
+        en https://mivacuna.salud.gob.mx/index.php, Si aún no lo haces regístrate, es importante que 
+        registres un correo y tu teléfono celular.</template>
+    </category>
+
+    <category>
+        <pattern>que hacer si el certificado tiene errores</pattern>
+        <template>Si al revisar tu certificado detectas que tiene algún dato incorrecto, no te preocupes, 
+        puedes solicitar la corrección en la siguiente liga: https://cvcovid.salud.gob.mx/correccionDatos.html
+        Se desplegará un formato, ingresa los datos requeridos, marca la opción que solicitas en la corrección 
+        y adjunta una copia de tu comprobante de vacunación en formato PDF, JPG o PNG.  El “comprobante de 
+        vacunación” (que se entrega al momento de aplicar las vacunas) es el documento que comprueba que tipo de 
+        vacuna se aplicó, las dosis y lote, es el que alimenta el certificado, sin ese no se puede realizar el 
+        certificado.</template>
+    </category>
+
+    <category>
+        <pattern>registre mal mi correo</pattern>
+        <template>Paso 1. Ingresa a la siguiente liga, para solicitar una aclaración: https://cvcovid.salud.gob.mx/correccionDatos.html
+        Paso 2. Deberás llenar los datos requeridos CURP, correo de localización (revisa que este escrito correctamente) y teléfono móvil.
+        Paso 3. Seleccionar la casilla de corrección de datos de contacto y aceptando el aviso de privacidad.
+        Paso 4. Dar clic en enviar
+        Es muy importante tengas paciencia, la corrección de datos lleva varios días en verse reflajado el cambio.</template>
+    </category>
+
+    <category>
+        <pattern>perdi mi numero celular</pattern>
+        <template>Paso 1. Ingresa a la siguiente liga, para solicitar una aclaración: https://cvcovid.salud.gob.mx/correccionDatos.html
+        Paso 2. Deberás llenar los datos requeridos CURP, correo de localización (revisa que este escrito correctamente) y teléfono móvil.
+        Paso 3. Seleccionar la casilla de corrección de datos de contacto y aceptando el aviso de privacidad.
+        Paso 4. Dar clic en enviar
+        Es muy importante tengas paciencia, la corrección de datos lleva varios días en verse reflajado el cambio.</template>
+    </category>
+
+    <category>
+        <pattern>Cuantas vacunas hay contra COVID</pattern>
+        <template>Las vacunas tienen como finalidad entrenar al sistema inmune de las personas para que en el momento en que 
+        estén en contacto con el virus SARS-CoV-2, las defensas generadas por la vacunación, puedan reconocerlo y bloquear su 
+        entrada a las células del organismo. Las siguientes son algunas de las características de estas vacunas:
+        Vacunas de ácido ribonucleico mensajero (ARN mensajero o mRNA por sus siglas en inglés). Son vacunas desarrolladas por las 
+        empresas farmacéuticas Pfizer/BioNTech (vacuna BNT162b2) y Moderna. El ARN mensajero que contienen, capacita a las células 
+        de las personas, para que produzcan la proteína S, para que su sistema de defensa identifique a los virus por esta proteína, 
+        presente en la superficie viral y pueda atacar eficientemente. Ambas vacunas cuentan con registro para uso en condiciones de 
+        emergencia sanitaria en Estados Unidos. La vacuna BNT162b2 Pfizer/BioNTech, ha obtenido registro en las mismas condiciones y 
+        actualmente se está utilizando en Estados Unidos, Inglaterra, Bahréin, Canadá, México, en los países de la Comunidad Europea, 
+        en Singapur, en Israel y en Costa Rica. Su uso en condiciones de emergencia sanitaria también ha sido reconocido por la 
+        Organización Mundial de la Salud (OMS). 
+        Vacunas de vectores virales no replicantes. Utilizan adenovirus genéticamente modificados, para eliminar su capacidad de 
+        replicación y para que induzcan la producción de la proteína S en las personas vacunadas, con la intención de que las 
+        defensas generadas, sean capaces de protegerlos contra la infección por el virus SARS-CoV-2. Estas vacunas, están siendo 
+        producidas por las empresas farmacéuticas AstraZeneca/Oxford, CanSino, Jansen y por el Instituto Gamaleya (vacuna Sputnik V). 
+        De estas, la vacuna AstraZeneca está registrada para uso en condiciones de emergencia sanitaria en Inglaterra, India y México 
+        y la vacuna Sputnik V está registrada en iguales condiciones y se está utilizando en Rusia y Argentina, mientras que la vacuna 
+        AstraZeneca se está utilizando actualmente en Inglaterra.
+        Otras vacunas. Las vacunas de proteínas de superficie del virus SARS-CoV-2, las de virus inactivados, y las producidas por 
+        otras plataformas que parten de tecnologías del DNA, están en diferentes etapas de desarrollo o de ensayo en poblaciones 
+        humanas.  </template>
+    </category>
+
+    <category>
+        <pattern>la vacuna forma parte de un experimento</pattern>
+        <template>No. Las empresas productoras de estas vacunas, comunican su intención de producirlas a la OMS. En México, la 
+        COFEPRIS otorga el registro de estas vacunas en condiciones de emergencia sanitaria, a partir de la evaluación por el 
+        Comité de Moléculas Nuevas, de las evidencias de seguridad y eficacia derivadas del avance de los resultados de los 
+        ensayos clínicos de Fase III.  </template>
+    </category>
+
+    <category>
+        <pattern>hay desponibles otras opciones de vacunas</pattern>
+        <template>Hasta el momento las vacunas Pfizer-BioNTech, Cansino, COVAX, AstraZeneca, Sputnik V, Sinovac, Janssen y Moderna 
+        son las únicas autorizadas por la COFEPRIS, para uso en condiciones de emergencia sanitaria, sin embargo, podrían obtener 
+        esta autorización otras vacunas, siempre y cuando lo soliciten y cumplan con las condiciones requeridas.</template>
+    </category>
+
+    <category>
+        <pattern>puedo recibir la vacuna al mismo tiempo que otras vacunas que no son para prevenir COVID</pattern>
+        <template>No hay información sobre la administración de la vacuna contra la COVID-19 y otras vacunas al mismo tiempo. Si 
+        te han aplicado otra vacuna antes que la de COVID-19, debes esperar 14 días para aplicártela. Si has recibido la vacuna 
+        contra la COVID-19 y requieres de otra vacuna, también debes esperar 14 días antes de aplicarte la otra vacuna.</template>
+    </category>
+
+    <category>
+        <pattern>puedo aplicarme dos vacunas contra COVID de diferente marca</pattern>
+        <template>No hay información al respecto, por lo que la segunda dosis será de la misma vacuna.</template>
+    </category>
+
+    <category>
+        <pattern>en que condiciones debe poerse la vacuna</pattern>
+        <template>Si el día de su cita para vacunación usted presenta temperatura mayor a 38ºC, tiene menos de 14 días de haber 
+        recibido la vacuna influenza, recientemente padeció COVID-19 y aún continúa con sintomatología, presenta algún 
+        padecimiento hemorrágico o trastorno de la coagulación  (sangrado en nariz, encías, orina, o moretones en piel o en otra 
+        parte de su cuerpo), usted, no podrá recibir la vacuna y se reprogramará la cita para aplicación de la vacuna hasta el 
+        momento que no presente  estas características. </template>
+    </category>
+
+    <category>
+        <pattern>que pasa si solo me pongo una dosis</pattern>
+        <template>La protección con una sola dosis aún no ha sido totalmente analizada. De acuerdo con los resultados de los 
+        diferentes ensayos clínicos, las dos dosis son necesarias para alcanzar la mayor protección con aquellas vacunas de 
+        esquema de dos dosis. Si por alguna razón no se administra la segunda dosis en el tiempo indicado, no debe preocuparse, 
+        pero será necesario que esté atento para que programen una cita para vacunación lo más pronto posible.</template>
+    </category>
+
+    <category>
+        <pattern>se ocupa una tercera dosis</pattern>
+        <template>No hay por el momento estudios que muestran la necesidad de un refuerzo. El seguimiento de las personas 
+        vacunadas, permitirá aclarar si se requiere aplicar o no un refuerzo.</template>
+    </category>
+
+    <category>
+        <pattern>cuales son los riesgos de que me administren la vacuna</pattern>
+        <template>En el avance de resultados de ensayo clínico de Fase III, se ha documentado la presencia temporal de dolor en el 
+        sitio de inyección, que puede acompañarse de enrojecimiento e inflamación local, fatiga, dolor de cabeza, dolor muscular, 
+        dolor de articulaciones, escalofríos, fiebre, vómitos, dolor faríngeo, tos, náusea, diarrea o malestar, algunas personas 
+        presentan crecimiento y dolor en algunos ganglios. Estas manifestaciones han cedido espontáneamente o en algunos casos 
+        requieren sólo del uso de analgésicos. </template>
+    </category>
+
+    <category>
+        <pattern>que hago o sos pecho que estoy cursando un evento adverso probablemente asociado a la vacuna</pattern>
+        <template>Si tiene alguna reacción alérgica grave, durante los 30 minutos de observación después de la vacunación, habrá 
+        personal de salud capacitado para atender esta eventualidad, cada equipo cuenta con un kit de medicamentos específicos y 
+        se dispone de una ambulancia para llevar a la persona a un hospital, en caso de requerirse.</template>
+    </category>
+
+    <category>
+        <pattern>efectos adversos de la vacuna</pattern>
+        <template>Frecuentes: dolor, endurecimiento, inflamación o aumento de la temperatura en el sitio de inyección, dolor de 
+        cabeza, debilidad, dolores musculares o articuilares, mareo, escalofríos.
+        Poco frecuentes: náuseas, fiebre, taquicardia, dolor de garganta, escurrimiento nasal, tos.
+        Raros: diarrea, enrojecimiento de la piel, vómito.
+        Muy raros: afectación del sistema nervioso central, alergia grave, alteraciones en el sistema cardiovascular.</template>
+    </category>
+
+    <category>
+        <pattern>Documentos de consulta</pattern>
+        <template>Puedes visiar la pagina http://vacunacovid.gob.mx/wordpress/documentos-de-consulta/</template>
+    </category>
+
+    <category>
+        <pattern>adios</pattern>
+        <template>Fue un placer ayudarte</template>
+    </category>
+
+</aiml>
