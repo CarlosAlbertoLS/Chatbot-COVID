@@ -1,10 +1,31 @@
 <aiml version="1.0.1" encoding="URF-8">
 
     <category>
+        <pattern>Hola</pattern>
+        <template>
+            <random>
+                <li>hola, ¿Comó te llamas?</li>
+                <li>Bienbenido, ¿Comó te llamas?</li>
+                <li>Que tal! ¿Comó te llamas?</li>
+            </random>
+        </template>
+    </category>
+
+    <category>
+      <pattern>mi nombre es *</pattern>
+      <template>Hola <set name = "username"> <star/>! </set></template> 
+   </category> 
+
+    <category>
         <pattern>Que es el covid</pattern>
         <template>Los coronavirus son una familia de virus que causan enfermedades 
         (desde el resfriado común hasta enfermedades respiratorias más graves) y 
         circulan entre humanos y animales.</template>
+    </category>
+
+    <category>
+        <pattern>^chatbot^</pattern>
+        <template>Si soy un chatbot</template>
     </category>
 
     <category>
@@ -446,7 +467,7 @@ Por eso debes llamar a los teléfonos anteriores, para que te puedan brindar má
 
     <category>
         <pattern>adios</pattern>
-        <template>Fue un placer ayudarte</template>
+        <template>Fue un placer ayudarte <get name="username"/> </template>
     </category>
 
 </aiml>
